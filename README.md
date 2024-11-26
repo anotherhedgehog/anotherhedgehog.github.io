@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Deployment to github pages site done using [react-gh-pages](https://github.com/gitname/react-gh-pages), use command:
+``npm run deploy -- -m "[insert commit message here]"``
 
 ## Available Scripts
 
